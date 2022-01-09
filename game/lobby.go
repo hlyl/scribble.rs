@@ -41,6 +41,7 @@ var (
 		"german":     "German",
 		"french":     "French",
 		"dutch":      "Dutch",
+		"novo":      "Novo",
 	}
 )
 
